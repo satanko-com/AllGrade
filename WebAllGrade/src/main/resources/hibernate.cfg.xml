@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLInnoDBDialect</property>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        
+        <!-- The property for the connection URL is located in the AllGradeUtil class-->
+        <property name="hibernate.connection.username">AllGrade</property>
+        <property name="hibernate.connection.password">p2Wx9DfVt7a9QSKZ</property>
+        
+        <!-- Use the following two properties to show sql statements for development purposes -->
+        <property name="hibernate.show_sql">false</property>
+        <!--        <property name="hibernate.format_sql">true</property>-->
+        
+        <property name="hibernate.current_session_context_class">thread</property>
+        
+        <!-- ATTENTION! hibernate.hbm2ddl.auto=update is considered unsafe for production systems --> 
+        <!-- 
+             Please ignore the comment above! Also please do not submit this to thedailywtf.com!
+        
+             EXPLANATION:
+             We need to set the following property to update because we want the server to init
+             the database once per year. Otherwise there are no changes to the database so there
+             SHOULD not be any problem. -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        
+        <property name="c3p0.idle_test_period">300</property>
+        <property name="c3p0.min_size">5</property>
+        <property name="c3p0.max_size">20</property>
+        <property name="c3p0.timeout">1800</property>
+        <property name="c3p0.max_statements">50</property>
+        <property name="connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>
+        
+        <mapping class="com.satanko.weballgrade.data.model.Clazz"/>
+        <mapping class="com.satanko.weballgrade.data.model.GradeLog"/>
+        <mapping class="com.satanko.weballgrade.data.model.Lesson"/>
+        <mapping class="com.satanko.weballgrade.data.model.Student"/>
+        <mapping class="com.satanko.weballgrade.data.model.Subject"/>
+        <mapping class="com.satanko.weballgrade.data.model.Teacher"/>
+    </session-factory>
+</hibernate-configuration>
