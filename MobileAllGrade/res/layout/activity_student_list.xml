@@ -1,0 +1,16 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_student_list_layout"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+	 <!-- Fragment will go here eventually, but should not be added in the layout -->
+
+</LinearLayout>
+

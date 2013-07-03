@@ -1,0 +1,15 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="spinner_markType_standart" tools:ignore="InconsistentArrays">
+        <item>Participation</item>
+        <item>Homework</item>
+        <item>Test</item>
+        <item>Exam</item>
+    </string-array>
+
+</resources>

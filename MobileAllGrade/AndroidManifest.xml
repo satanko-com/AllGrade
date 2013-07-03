@@ -1,0 +1,62 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.satanko.allgrade"
+    android:versionCode="1"
+    android:versionName="1.0.RC" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:icon="@drawable/ic_allgrade"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name=".view.activity.MainActivity"
+            android:label="@string/title_activity_student_list_ics"
+            android:screenOrientation="portrait" >
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- The following tag specifies URI format to which the App responds to in a QR-Code 
+                     This means you should create QR-Codes such as:
+                     http://allgrade.satanko.at/YOURDATA
+                     
+                     YOURDATA = the unique code of a physical class in the school (e.g. CDH08) -->
+                <data
+                    android:host="allgrade.satanko.at"
+                    android:scheme="http" >
+                </data>
+            </intent-filter>
+            
+        </activity>
+        
+        <activity
+            android:name=".view.activity.GradeActivity"
+            android:label="@string/title_activity_grade"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service android:name=".service.GradelogUploadService" />
+        <service android:name=".service.EntryCacheManager" />
+    </application>
+
+</manifest>

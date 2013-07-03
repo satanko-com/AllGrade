@@ -1,0 +1,12 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+
+</resources>

@@ -1,0 +1,47 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<resources>
+
+    <string name="app_name">AllGrade</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="title_activity_student_list_ics">AllGrade</string>
+
+    <!-- Strings for AllGradeActivity.java -->
+    <string name="menu_scanCode">Code einlesen</string>
+    <string name="dialog_barcodeNotInstalled">Barcodescanner ist nicht installiert! Jetzt installieren?</string>
+    <string name="toast_invalidQrCode">Ungültiger QR-Code!</string>
+    <string name="nodata">Keine Daten</string>
+    <string name="notImplemented">Nicht implementiert</string>
+    <string name="title_activity_grade">Neue Benotung</string>
+    <string name="menu_head_markRating">Wertung</string>
+    <string name="menu_head_markComment">Kommentar</string>
+    <string name="menu_head_markType">Benotungsart</string>
+    <string name="menu_done">Fertig</string>
+    <string name="dialog_spinnerInput_heading">Neuer Eintrag</string>
+    <string name="dialog_spinnerInput_btn_insert">Einfügen</string>
+    <string name="impossible">Gratulation! \nSie haben etwas unmögliches geschafft! :-)</string>
+    <string name="menu_undo">Rückgängig</string>
+    <string name="menu_serverUpdate">Datenbank Update</string>
+    <string name="toast_addCommentInfo">Kommentar Spinner lang drücken, um eigenen Kommentar hinzuzufügen.</string>
+    <string name="list_loading">Lade Daten…</string>
+    <string name="toast_noNetworkConnection">Keine Verbindung zum Internet vorhanden!</string>
+    <string name="list_scanNewCode">Neuen QR-Code scannen</string>
+    <string name="list_needsInternet">\n(Benötigt Internetverbindung)</string>
+    <string name="dialog_subjectChooser_heading">Gegenstand Auswählen</string>
+    <string name="toast_emptySubjectList">Für diese Klasse sind keine Unterrichtsfächer eingetragen.</string>
+    <string name="error_no_account">Es wurde kein gültiger "Google Apps for Education" Account im Gerät gefunden!</string>
+    <string name="scan_code">Neuen QR-Code scannen…</string>
+    <string name="dialog_deleteLogEntry_heading">Lösche Benotung von:\n%s</string>
+    <string name="dialog_deleteLogEntry_detailComment">Kommentar:\n\"%s\"</string>
+    <string name="dialog_deleteLogEntry_detailRating">Wertung: %s</string>
+    <string name="dialog_deleteLogEntry_detailType">Benotungsart:\n%s</string>
+    <string name="toast_teacherNotTeachingClass">Keine Unterrichtsgegenstände eingetragen!</string>
+    <string name="toast_dataRoamingEnabled">Roaming aktiv! Datenverbindung wurde nicht aufgebaut um keine Kosten zu verursachen…</string>
+    <string name="toast_uploadStarted">Hochladen gestartet</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="menu_synchronise">Upload Log</string>
+
+</resources>

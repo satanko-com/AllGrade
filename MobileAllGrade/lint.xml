@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="AlwaysShowAction" severity="ignore" />
+    <issue id="CommitPrefEdits" severity="ignore" />
+    <issue id="ParserError" severity="ignore" />
+    <issue id="UnusedResources" severity="ignore" />
+</lint>

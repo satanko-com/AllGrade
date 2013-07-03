@@ -1,0 +1,24 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+    <item
+        android:id="@+id/menu_mark_complete"
+        android:icon="@android:drawable/ic_menu_send"
+        android:orderInCategory="99"
+        android:showAsAction="always"
+        android:title="@string/menu_done"/>
+    <item
+        android:id="@+id/menu_server"
+        android:showAsAction="never"
+        android:title="@string/menu_serverUpdate"/>
+
+</menu>

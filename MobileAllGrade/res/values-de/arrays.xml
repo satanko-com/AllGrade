@@ -1,0 +1,17 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<resources>
+
+    <string-array name="spinner_markType_standart">
+        <item>Mitarbeit</item>
+        <item>Hausübung</item>
+        <item>Lernzielkontrolle</item>
+        <item>Test</item>
+        <item>Praktische Leistungsfestst.</item>
+        <item>Schularbeit</item>
+    </string-array>
+
+</resources>

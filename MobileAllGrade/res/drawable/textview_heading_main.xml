@@ -1,0 +1,17 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid android:color="#0099CC" />
+
+    <size android:height="55dip" />
+
+    <stroke
+        android:width="3dip"
+        android:color="#0099CC" />
+
+</shape>

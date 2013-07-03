@@ -1,0 +1,10 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light" />
+
+</resources>

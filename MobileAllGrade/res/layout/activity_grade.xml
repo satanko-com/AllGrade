@@ -1,0 +1,102 @@
+<!--**********************************************************
+*   Copyright (c) 2013 Philipp Sommersguter, Julian Tropper  *
+*                                                            *
+*   See the file LICENCE.txt for copying permission.         *
+***********************************************************-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dip"
+    tools:context=".view.GradeActivity" >
+
+    <TextView
+        android:id="@+id/textView_studentName"
+        android:layout_width="wrap_content"
+        android:layout_height="55dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/textview_heading_main"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/hello_world"
+        android:textAllCaps="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_head_markType"
+        style="@style/SubHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_studentName"
+        android:layout_marginTop="15dip"
+        android:text="@string/menu_head_markType" />
+
+    <Spinner
+        android:id="@+id/spinner_markType"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView_head_markType"
+        android:layout_marginTop="5dip"
+        android:longClickable="true" />
+
+    <TextView
+        android:id="@+id/textView_head_markRating"
+        style="@style/SubHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner_markType"
+        android:layout_marginTop="10dip"
+        android:text="@string/menu_head_markRating" />
+
+    <RatingBar
+        android:id="@+id/ratingBar_markRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_head_markRating"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dip"
+        android:isIndicator="false"
+        android:numStars="5"
+        android:paddingTop="5dip"
+        android:rating="3"
+        android:stepSize="1" />
+
+    <TextView
+        android:id="@+id/textView_head_markComment"
+        style="@style/SubHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ratingBar_markRating"
+        android:layout_marginTop="10dip"
+        android:text="@string/menu_head_markComment" />
+
+    <Spinner
+        android:id="@+id/spinner_markComment"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/spinner_comment_height"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView_head_markComment"
+        android:layout_marginTop="5dip"
+        android:longClickable="true" />
+
+    <TextView
+        android:id="@+id/textView_bottomInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="35dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#0099CC"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/hello_world"
+        android:textAllCaps="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic" />
+
+</RelativeLayout>
