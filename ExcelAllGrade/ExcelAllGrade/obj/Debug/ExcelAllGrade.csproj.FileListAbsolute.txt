@@ -1,0 +1,57 @@
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.Properties.Resources.resources
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.CreateSpreadsheetDialog.resources
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ManageLessonsDialog.resources
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.MenuBar.resources
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csproj.GenerateResource.Cache
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.config
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.pdb
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.manifest
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.vsto
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.dll
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.pdb
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.XML
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ProxySettingsDialog.resources
+C:\Users\Juli\Documents\Visual Studio 2012\Projects\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.config
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.XML
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.pdb
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.manifest
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.vsto
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.Properties.Resources.resources
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.CreateSpreadsheetDialog.resources
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ManageLessonsDialog.resources
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.MenuBar.resources
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ProxySettingsDialog.resources
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.dll
+C:\Users\Philipp\Desktop\ExcelAllGrade_Project_VisualStudio\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.pdb
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.config
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.XML
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.pdb
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.dll.manifest
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\ExcelAllGrade.vsto
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.dll
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\Newtonsoft.Json.xml
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csprojResolveAssemblyReference.cache
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.Properties.Resources.resources
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.CreateSpreadsheetDialog.resources
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ManageLessonsDialog.resources
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.MenuBar.resources
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.view.ProxySettingsDialog.resources
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.csproj.GenerateResource.Cache
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.dll
+F:\VCS\repositories\AllGrade\ExcelAllGrade\ExcelAllGrade\obj\Debug\ExcelAllGrade.pdb
